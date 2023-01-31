@@ -1,3 +1,40 @@
 img {
     width: 300px;
+    position: relative;
+    left: 37%;
+    right: 50%;
+}
+
+h1 {
+    border: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    color: purple;
+    text-shadow: 2px 2px rgb(66, 14, 66);
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px gray;
+}
+ 
+p {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px gray;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px gray;
+}
+
+ul {
+    text-align: center;
 }
